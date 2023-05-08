@@ -18,3 +18,13 @@ Javascript touch friendly input spinner
 
 official link : https://input-touchspin.vercel.app/   
 repo link : https://github.com/erwinstone/input-touchspin
+
+
+
+## Miltiselect
+Description :  
+This is a small jQuery plugin that helps you improve the user experience regarding the use of multiple cross selects.  
+
+official link : https://crlcu.github.io/multiselect/    
+repo link : https://github.com/crlcu/multiselect
+
