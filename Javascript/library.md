@@ -4,7 +4,7 @@ Description :
 A tiny javascript library to help printing from the web.  
   
 official link : https://printjs.crabbly.com/   
-repo link : https://github.com/erwinstone/input-touchspin
+repo link : https://github.com/crabbly/Print.js/tree/v1.5.0  
 
 
 
