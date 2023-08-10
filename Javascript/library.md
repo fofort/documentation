@@ -17,3 +17,9 @@ repo link : https://github.com/davidshimjs/qrcodejs
 
 
 
+## QR Code Reader
+Description :  
+A cross platform HTML5 QR code reader.  
+
+official link : https://scanapp.org   
+repo link : https://github.com/mebjas/html5-qrcode
