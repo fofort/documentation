@@ -21,3 +21,7 @@ Adding new php version :
  4 - Rename php.ini-development file to phpForApache.ini  
  5 - Done ! Restart WampServer (>Right Mouseclick on trayicon >Exit)  
 
+ => follow this link for installation : https://www.myonlineedu.com/blog/view/16/How%20to%20configure%20PHP%207%20on%20WAMP%20server%20in%20localhost
+
+ => made sure to download : thread safe version
+
