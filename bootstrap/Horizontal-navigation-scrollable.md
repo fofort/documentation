@@ -32,5 +32,6 @@ example with col-auto
 ```
 
 
-reference:
-https://stackoverflow.com/questions/38901166/horizontal-scrollable-divs-in-a-bootstrap-row
+reference :  
+https://stackoverflow.com/questions/38901166/horizontal-scrollable-divs-in-a-bootstrap-row  
+https://stackoverflow.com/questions/35993300/horizontally-scrollable-list-of-cards-in-bootstrap  
