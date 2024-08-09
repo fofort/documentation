@@ -28,3 +28,10 @@ This is a small jQuery plugin that helps you improve the user experience regardi
 official link : https://crlcu.github.io/multiselect/    
 repo link : https://github.com/crlcu/multiselect
 
+## Mega menu
+Description :  
+Lightweight and pure CSS megamenu that uses the standard navbar markup and the fluid grid system classes from Bootstrap 4. Work for fixed and responsive layout and has the facility to include (almost) any Bootstrap elements.  
+
+official link : [https://crlcu.github.io/multiselect/](https://geedmo.github.io/yamm/)     
+repo link : [https://github.com/crlcu/multiselect](https://github.com/geedmo/yamm)
+
