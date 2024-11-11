@@ -98,3 +98,8 @@ export default {
 - [Vuetify Navigation ](https://vuetifyjs.com/en/components/app-bars/#usage)
 - [https://salifyataala.medium.com/top-navigation-bar-in-vuetify-part-one-74c0d445bdde](https://salifyataala.medium.com/top-navigation-bar-in-vuetify-part-one-74c0d445bdde) 
 - [full sandbox example](https://codesandbox.io/p/sandbox/vuetify-top-navbar-sivre)
+
+
+Example but seem not working with version 3 of vuetify  
+ - https://codesandbox.io/p/sandbox/vuetify-top-navbar-frhu8?file=%2Fpackage.json%3A18%2C23
+ - 
